@@ -1,0 +1,7 @@
+
+app/__pycache__
+
+# SQLite database
+instance/*.db
+
+.DS_Store
